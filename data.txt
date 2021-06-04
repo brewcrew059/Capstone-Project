@@ -1,0 +1,3 @@
+This project will utilize foursquare location data to determine the coordinates of the highest rated food services in Whitefish MT. 
+The logic is that the ideal location for a food truck is near other food venues that customers typically like to go when they are hungry.
+It may be optimal to add weights to ensure higher rated/trafficked venues are given more influence on the optimal neighborhood output.
