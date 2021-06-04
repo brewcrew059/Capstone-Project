@@ -1,0 +1,3 @@
+Introduction / Business Problem
+Lets say you are the owner of a food truck seeking to set up shop in the tourist town of Whitefish Montana. Before seeking permissions from property owners, you must decide where you want to park your truck. Which areas will attract the optimal amount of hungry tourists/consumers and thus result in maximum profits? This is the question this project will seek to answer.
+Stakeholders interested in this information are clearly the individual food truck owners, or the stockholders of the larger company chain.
